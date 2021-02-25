@@ -32,22 +32,22 @@ MVC 아키텍처의 구조를 이해하고, 이를 기반으로 클래스 다이
 
 | 주 | 날짜 | 주제 | 숙제 |
 |:----:|:-----:|:-----:|:-----:|:-----:|
-|  1  | 3/4 | Introduction  | - | - |
+|  1  | 3/4 | Introduction  | - |
 |  2  | 3/11 | Simple Java Applications  | - |
 |  3  | 3/18 | Arithmetic and Variables | #1 |
 |  4  | 3/25 | Input, Output, and State | #2 |
 |  5  | 4/1 | Component Structure: Method and Class Building | #3 |
 |  6  | 4/8 | Control Structure: Conditional Statements and Software Architecture | #4 |
 |  7  | 4/15 | Patterns of Repetition | #5 |
-|  8  | 4/22 | (오프라인) 코딩 시험 1 | - | - |
+|  8  | 4/22 | (오프라인) 코딩 시험 1 | - | 
 |  9  | 4/29 | Data Structure: Arrays | #6 |
 |  10 | 5/6 | Programming to Interfaces | - |
 |  11 | 5/13 | Graphical User Interfaces and Event-Driven Programming | - |
 |  12 | 5/20 | Text and File Processing | - |
-|  13 | 5/27 | Team Project Proposal Presentation | - | - |
-|  14 | 6/3 | Team Project Design Presentation Demo | - | - |
-|  15 | 6/10 | Team Project Demo | - | - |
-|  16 | 6/17 | (오프라인) 코딩 시험 2 | - | - |
+|  13 | 5/27 | Team Project Proposal Presentation | - | 
+|  14 | 6/3 | Team Project Design Presentation Demo | - | 
+|  15 | 6/10 | Team Project Demo | - | 
+|  16 | 6/17 | (오프라인) 코딩 시험 2 | - | 
 
 ### 평가
 
