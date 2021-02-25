@@ -41,8 +41,8 @@ MVC 아키텍처의 구조를 이해하고, 이를 기반으로 클래스 다이
 |  7  | 4/15 | Patterns of Repetition | #5 |
 |  8  | 4/22 | (오프라인) 코딩 시험 1 | - | 
 |  9  | 4/29 | Data Structure: Arrays | #6 |
-|  10 | 5/6 | Programming to Interfaces | - |
-|  11 | 5/13 | Graphical User Interfaces and Event-Driven Programming | - |
+|  10 | 5/6 | Programming to Interfaces | #7 |
+|  11 | 5/13 | Graphical User Interfaces and Event-Driven Programming | #8 |
 |  12 | 5/20 | Text and File Processing | - |
 |  13 | 5/27 | Team Project Proposal Presentation | - | 
 |  14 | 6/3 | Team Project Design Presentation Demo | - | 
